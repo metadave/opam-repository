@@ -1,5 +1,5 @@
 opam-version: "1"
-maintainer: "dparfitt@basho.com"
+maintainer: "dparfitt@gmail.com"
 build: [
   ["./configure"]
   [make]
